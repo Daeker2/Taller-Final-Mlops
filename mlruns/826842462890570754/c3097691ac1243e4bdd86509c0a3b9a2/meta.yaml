@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOPS-Daeker/Proyecto_13/mlops-project/mlruns/826842462890570754/c3097691ac1243e4bdd86509c0a3b9a2/artifacts
+end_time: 1747359649071
+entry_point_name: ''
+experiment_id: '826842462890570754'
+lifecycle_stage: active
+run_id: c3097691ac1243e4bdd86509c0a3b9a2
+run_name: stately-tern-766
+run_uuid: c3097691ac1243e4bdd86509c0a3b9a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747359641505
+status: 3
+tags: []
+user_id: Usuario

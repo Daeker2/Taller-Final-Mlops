@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MLOPS-Daeker/Proyecto_13/mlops-project/mlruns/826842462890570754/b6da9181de8146f997a1bcd3a1c39513/artifacts
+deleted_time: 1747359684619
+end_time: 1747359293240
+entry_point_name: ''
+experiment_id: '826842462890570754'
+lifecycle_stage: deleted
+run_id: b6da9181de8146f997a1bcd3a1c39513
+run_name: dashing-fish-728
+run_uuid: b6da9181de8146f997a1bcd3a1c39513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747359289084
+status: 4
+tags: []
+user_id: Usuario
